@@ -4,6 +4,7 @@ Online Convex Optimisation on Car Racing
 ```
 git clone https://github.com/harsharora21/OCO-Car-Racing.git
 cd OCO-Car-Racing
+chmod +x install.sh run.sh
 ./install.sh
 ```
 ### Running
