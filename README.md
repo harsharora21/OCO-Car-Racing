@@ -46,6 +46,7 @@ Uses Online Convex Optimisation.
 2. The install script was tested on Mac. It should work fine on Linux.
 
 3. For some reason sometimes install does not work. The error is something related to Gym Box2D. In that case delete the gamevenv folder and run install.sh again.
+4. The install creates a python virtual enviornment.
 
 ## TODO
 Expand Docs
