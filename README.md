@@ -1,5 +1,6 @@
 # Auto Car Racing
 Online Convex Optimisation on Car Racing
+
 ## Install
 ```
 git clone https://github.com/harsharora21/OCO-Car-Racing.git
@@ -16,6 +17,8 @@ Hold the M key, now use WASD to move (while holding M key). This will train the 
 For running the Model just take hands off the keyboard.
 
 If Model goes haywire you can intervene by holding the M key and guiding it.
+### Watch Video
+https://youtu.be/ujDmRYVA9jo
 
 ## Controls
 W - Forward
