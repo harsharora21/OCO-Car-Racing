@@ -1,6 +1,8 @@
 # Auto Car Racing
 Online Convex Optimisation on Car Racing
 
+![Alt text](GameImage.png?raw=true "Game Image")
+
 ## How-To
 Hold the M key, now use WASD to move (while holding M key). This will train the Model.
 For running the Model just take hands off the keyboard.
