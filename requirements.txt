@@ -1,0 +1,8 @@
+pynput==1.7.3
+numba==0.49.1
+gym==0.20.0
+numpy==1.21.2
+matplotlib==3.2.1
+gym[box2d]
+Box2D
+pyglet
